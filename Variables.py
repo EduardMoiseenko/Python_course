@@ -1,4 +1,4 @@
 x = 2
 y = 3
 z = x + y
-print('z = ' + str(z))
+print('z равняется ' + str(z))
