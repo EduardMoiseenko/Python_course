@@ -1,3 +1,4 @@
+# 2. Типы данных в python
 a = None
 print(a)
 print(type(a))  # class NoneType - отсутствие данных
